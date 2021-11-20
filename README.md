@@ -1,4 +1,4 @@
-## PERSONALITY UNDER CONSTRUCTION 😄
+## Personality under construction 😄
 
 * i'm Lindemberg Rodrigues 🧔
 * 💻 I'm a computer science student at UFCG.
