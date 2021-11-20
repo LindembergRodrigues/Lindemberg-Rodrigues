@@ -1,1 +1,3 @@
-# Lindemberg-Rodrigues
+## i'm Lindemberg Rodrigues 🧔
+
+# 💻 I'm a computer science student at UFCG.
