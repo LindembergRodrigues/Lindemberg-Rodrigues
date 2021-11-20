@@ -5,8 +5,7 @@
 
 # About me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lindemberg-rodrigues-a91810135/)](https://www.linkedin.com/in/lindemberg-rodrigues-a91810135/)
-
-[![Hakcerrank Badge] (https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white & link=https://www.hackerrank.com/bergfla2010)](https://www.hackerrank.com/bergfla2010)
+[![Hakcerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/bergfla2010)](https://www.hackerrank.com/bergfla2010)
 
 
 [![LindembergRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LindembergRodrigues)](https://github.com/LindembergRodrigues/github-readme-stats)
