@@ -2,4 +2,5 @@
 
 ## i'm Lindemberg Rodrigues 🧔
 # 💻 I'm a computer science student at UFCG.
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
+[![LindembergRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LindembergRodrigues)](https://github.com/LindembergRodrigues/github-readme-stats)
