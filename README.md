@@ -12,5 +12,5 @@
 
 [![LindembergRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LindembergRodrigues)](https://github.com/LindembergRodrigues/github-readme-stats)
 
-<p align="center"> Visitas a minha conta </p>
+<p align="center"> <VISITAS> </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LindembergRodrigues/count.svg" /></p>
