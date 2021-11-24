@@ -11,3 +11,6 @@
 🧑‍💻 User<br /> ![Linux_Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&link=https://github.com/LindembergRodrigues)
 
 [![LindembergRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LindembergRodrigues)](https://github.com/LindembergRodrigues/github-readme-stats)
+
+<p align="center"> Visitas a minha conta </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LindembergRodrigues/count.svg" /></p>
