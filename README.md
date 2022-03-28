@@ -11,3 +11,5 @@
 🧑‍💻 User<br /> ![Linux_Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&link=https://github.com/LindembergRodrigues)
 
 [![LindembergRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LindembergRodrigues)](https://github.com/LindembergRodrigues/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=LindembergRodrigues&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=LindembergRodrigues&layout=compact&theme=radical)
